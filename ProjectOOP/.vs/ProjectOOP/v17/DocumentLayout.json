@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ProjectsVS\\ProjectOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7192D7A6-45C9-48DA-9981-1F7E8FECAFCC}|ProjectOOP.vcxproj|E:\\ProjectsVS\\ProjectOOP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7192D7A6-45C9-48DA-9981-1F7E8FECAFCC}|ProjectOOP.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7192D7A6-45C9-48DA-9981-1F7E8FECAFCC}|ProjectOOP.vcxproj|E:\\ProjectsVS\\ProjectOOP\\out.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7192D7A6-45C9-48DA-9981-1F7E8FECAFCC}|ProjectOOP.vcxproj|solutionrelative:out.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7192D7A6-45C9-48DA-9981-1F7E8FECAFCC}|ProjectOOP.vcxproj|E:\\ProjectsVS\\ProjectOOP\\Class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7192D7A6-45C9-48DA-9981-1F7E8FECAFCC}|ProjectOOP.vcxproj|solutionrelative:Class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7192D7A6-45C9-48DA-9981-1F7E8FECAFCC}|ProjectOOP.vcxproj|E:\\ProjectsVS\\ProjectOOP\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7192D7A6-45C9-48DA-9981-1F7E8FECAFCC}|ProjectOOP.vcxproj|solutionrelative:Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7192D7A6-45C9-48DA-9981-1F7E8FECAFCC}|ProjectOOP.vcxproj|E:\\ProjectsVS\\ProjectOOP\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7192D7A6-45C9-48DA-9981-1F7E8FECAFCC}|ProjectOOP.vcxproj|solutionrelative:in.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "out.txt",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP\\out.txt",
+              "RelativeDocumentMoniker": "out.txt",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP\\out.txt",
+              "RelativeToolTip": "out.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-04T08:00:06.28Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP\\Class.h",
+              "RelativeDocumentMoniker": "Class.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP\\Class.h",
+              "RelativeToolTip": "Class.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-04T07:59:11.74Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T07:58:49.005Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP\\Class.cpp",
+              "RelativeDocumentMoniker": "Class.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP\\Class.cpp",
+              "RelativeToolTip": "Class.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T08:49:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "in.txt",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP\\in.txt",
+              "RelativeDocumentMoniker": "in.txt",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP\\in.txt",
+              "RelativeToolTip": "in.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-04T07:59:37.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
